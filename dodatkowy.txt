@@ -1,0 +1,2 @@
+nowe opcje Gita. Notatnik vim:x
+
